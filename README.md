@@ -32,6 +32,10 @@ I have **2 years of hands-on experience** building dynamic, responsive web appli
 
 ---
 
+
+#### **Food Delivery App**
+A modern food ordering application built with React, Redux, and TailwindCSS.
+
 ### 📈 GitHub Stats
 
 ![Shaik Nayeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaikNayeem1903&show_icons=true&theme=tokyonight)
