@@ -24,14 +24,6 @@ I have **2 years of hands-on experience** building dynamic, responsive web appli
 
 ---
 
-### 🚀 Featured Projects
-
-### **[Nexus Global Consultancy](https://nexus-global-consultancy.netlify.app/)**
-- A fully responsive React.js website for a consultancy firm, featuring modern UI, optimized performance, and seamless navigation.
-- **Tech**: React.js, CSS3, JavaScript  
-- **Repo**: [GitHub Link](https://github.com/ShaikNayeem1903/Nexus-Global-Consultancy)  
-
----
 
 ### **[Food Delivery App](https://fooddelivaryapp.netlify.app)**
 - A modern food delivery application with seamless UI/UX, efficient state management, and fast performance.
