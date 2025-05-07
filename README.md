@@ -21,7 +21,6 @@ I have **2.5 years of hands-on experience** building dynamic, responsive web app
 - A sleek and responsive React.js-based electronics store with modern UI, category filtering, cart functionality, and smooth navigation.  
 - *Tech*: React.js, JavaScript, TailwindCSS  
 - *Repo*: [GitHub Link](https://github.com/ShaikNayeem1903/Ecommerce-Electronics)
-- *Live*: [Live Link](https://fooddelivaryapp.netlify.app/)
 
 
 ### **[Food Delivery App](https://fooddelivaryapp.netlify.app)**
