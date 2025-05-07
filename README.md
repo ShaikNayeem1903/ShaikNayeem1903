@@ -2,7 +2,7 @@
 
 ## 💻 Front-End Developer | React.js Developer | 3 Years Experience
 
-I have **3 years of hands-on experience** building dynamic, responsive web applications using **React.js, Redux, React-Bootstrap, Tailwindcss, Bootstrap, JavaScript (ES6+), HTML5, and CSS3**. I specialize in creating **clean UI/UX** and integrating APIs to deliver smooth user experiences. I’m passionate about writing efficient code, problem-solving, and continuously improving my skills.
+I have **2.5 years of hands-on experience** building dynamic, responsive web applications using **React.js, Redux, React-Bootstrap, Tailwindcss, Bootstrap, JavaScript (ES6+), HTML5, and CSS3**. I specialize in creating **clean UI/UX** and integrating APIs to deliver smooth user experiences. I’m passionate about writing efficient code, problem-solving, and continuously improving my skills.
 
 ---
 
@@ -16,6 +16,11 @@ I have **3 years of hands-on experience** building dynamic, responsive web appli
 ---
 
 ### 🚀 Featured Projects
+
+### *[E-commerce Electronics](https://ecommarce-electronics.netlify.app/)*  
+- A sleek and responsive React.js-based electronics store with modern UI, category filtering, cart functionality, and smooth navigation.  
+- *Tech*: React.js, JavaScript, TailwindCSS  
+- *Repo*: [GitHub Link](https://github.com/ShaikNayeem1903/Ecommerce-Electronics)
 
 
 ### **[Food Delivery App](https://fooddelivaryapp.netlify.app)**
