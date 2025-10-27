@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Shaik Nayeem
 
-## 💻 Front-End Developer | React.js Developer | 3.4 Years Experience
+## 💻 Front-End Developer | React.js Developer | 3 Years Experience
 
 I have **3.4 years of hands-on experience** building dynamic, responsive web applications using **React.js, Redux, React-Bootstrap, Tailwindcss, Bootstrap, JavaScript (ES6+), HTML5, and CSS3**. I specialize in creating **clean UI/UX** and integrating APIs to deliver smooth user experiences. I’m passionate about writing efficient code, problem-solving, and continuously improving my skills.
 
